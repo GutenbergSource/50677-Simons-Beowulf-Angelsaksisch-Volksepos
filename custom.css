@@ -1,0 +1,19 @@
+
+.lineNum {
+    font-weight: bold;
+    color: #0D3894 !important;
+}
+
+.lineNumRef {
+    font-weight: bold;
+    color: #6E2B61 !important;
+}
+
+.lineNumRef a {
+    text-decoration: none;
+    color: #6E2B61 !important;
+}
+
+span.label a.apparatusnote {
+    color: white;
+}
